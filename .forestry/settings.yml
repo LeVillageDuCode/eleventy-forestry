@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Contenu
 - type: directory
-  path: posts
+  path: src/posts
   label: Posts
   create: all
   match: "**/*"
